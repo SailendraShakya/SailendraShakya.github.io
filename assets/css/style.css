@@ -700,14 +700,15 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	height:45px;
 	font-size:18px;
 	color:#FFFFFF!important;
-	background-color:#FEC028;
+	/*background-color:#FEC028;*/
+	background-color: #2dacb2;
 	margin-left:0px;
 	margin-right:10px;
 	border-radius:5px 5px 5px ;
 	min-width:270px;
 }
 .btn-orange:hover{
-	background-color:rgba(254,192,41,0.8);
+	background-color:#1E5379;
 }
 .block-padding{
 	padding:100px 50px 0px 50px;
@@ -745,8 +746,8 @@ p{
 	font-family:"helvetica";
 }
 .navbar-nav li a{
-	font-size:16px;
-	color:#000000!important;
+	font-size:18px;
+	color:#ffa617 !important;
 	font-family:"helvetica";
 }
 .foote{
@@ -1083,7 +1084,8 @@ p{
 	color:#000000!important;
 }
 .bg-quote-light-blue{
-	background:linear-gradient(260deg, #193D73, #46C9FF);
+	/*background:linear-gradient(260deg, #193D73, #46C9FF);*/
+	background:linear-gradient(260deg, #ffa617, #fff)
 }
 .velicina{
 	font-size:30px;
